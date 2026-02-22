@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there!
 -
-
 ### B.Tech Student | MERN Stack Developer | Java DSA | System Design Enthusiast | Cloud Technologies
 
 I’m a B.Tech student driven by curiosity, problem-solving, and a passion for building systems that solve real-world problems.
