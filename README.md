@@ -100,4 +100,4 @@ Always open to new connections, collaborations, and learning!
 ---
 
 ⭐ Always learning and building.
-Thanks for droping ⭐
+Thanks for dropping by ⭐
