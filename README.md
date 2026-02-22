@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#👋 Hey there!
+<h1 align="center">👋 Hey there!</h1>
 -
 
 I’m a B.Tech student driven by curiosity, problem-solving, and a passion for building systems that solve real-world problems.
