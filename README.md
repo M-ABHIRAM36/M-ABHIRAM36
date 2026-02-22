@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">👋 Hey there!</h1>
+
+<p align="center">
+Passionate about building real-world systems and scalable applications.
+</p>
 -
 
 I’m a B.Tech student driven by curiosity, problem-solving, and a passion for building systems that solve real-world problems.
