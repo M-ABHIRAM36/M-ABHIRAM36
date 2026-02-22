@@ -12,19 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there!
--
-### B.Tech Student | MERN Stack Developer | Java DSA | System Design Enthusiast | Cloud Technologies
+# 👋 Hey there!
+I’m a B.Tech student **Computer Science and Engineering (Data Science)** driven by curiosity, problem-solving, and a passion for building systems that solve real-world problems.
 
-I’m a B.Tech student driven by curiosity, problem-solving, and a passion for building systems that solve real-world problems.
+I enjoy solving complex challenges and building practical applications. I especially love **System Design**, **Full Stack Development**, and exploring **Cloud Technologies**.
 
-I enjoy designing and developing practical applications and love working on ideas that have real-world impact. I am especially interested in **System Design** and building scalable applications.
+I have experience in **Full Stack Web Development (MERN Stack)** and actively practice **Data Structures and Algorithms in Java**.
 
-I have experience in **Full Stack Web Development (MERN Stack)** and enjoy turning ideas into working products. I also actively practice **Data Structures and Algorithms in Java** to strengthen my problem-solving skills.
+Currently exploring **DevOps, scalable architectures, and cloud-based applications.**
 
-Currently, I am expanding my knowledge in **DevOps, Cloud Technologies, and scalable system architecture** while continuing to improve my development and problem-solving skills.
-
-I am always open to learning, collaborations, and new opportunities.
+Always open to new connections, collaborations, and learning!
 
 ---
 
