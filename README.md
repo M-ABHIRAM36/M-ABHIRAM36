@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **M-ABHIRAM36/M-ABHIRAM36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#👋 Hey there!
+👋 Hey there!
 
 I’m a B.Tech student driven by curiosity, problem-solving, and a passion for building systems that solve real-world problems.
 
