@@ -80,6 +80,7 @@ I am always open to learning, collaborations, and new opportunities.
 
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com)
 
+---
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/moguloju-abhiram)
@@ -88,7 +89,7 @@ I am always open to learning, collaborations, and new opportunities.
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/abhiram36)
 
-
+---
 ## 🎯 Interests
 
 • Real-world Problem Solving
