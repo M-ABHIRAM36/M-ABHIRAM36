@@ -30,22 +30,26 @@ Always open to new connections, collaborations, and learning!
 ### 💻 Programming
 
 • Java
-• JavaScript
 • Python
+• JavaScript
 • SQL
 
-
-### 🌐 Full Stack Development
+### 🗄 Databases
 
 • MongoDB
-• Express.js
+• MySQL
+
+### 🌐 Full Stack Development(MERN)
+
 • React.js
 • Node.js
+• Express.js
+• MongoDB
 • REST APIs
 
 ### 🧠 Computer Science
 
-• Data Structures & Algorithms (Java)
+• Data Structures & Algorithms (by using Java)
 • Operating Systems (Basics)
 • Database Management Systems (Basics)
 • Computer Networks (Basics)
@@ -54,7 +58,7 @@ Always open to new connections, collaborations, and learning!
 
 • DevOps
 • System Design
-• Scalable Applications
+• Scalable Applications architecture
 
 ---
 ## 🛠️ Tech Stack
